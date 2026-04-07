@@ -14,4 +14,4 @@ A software developer specializing in backend architecture, Android development, 
 * **Backend Systems:** Architected a modular banking application with secure account management and transaction logging (Java, JDBC).
 * **Embedded Systems:** Engineered a sensor-based wildfire mitigation system with hardware-in-the-loop simulation (Embedded C, MATLAB).
 
-📫 **Connect:** [LinkedIn](https://linkedin.com/in/aryansingh) | singhaaryann07@gmail.com
+📫 **Connect:** [LinkedIn]([https://linkedin.com/in/aryansingh](https://www.linkedin.com/in/aryan-singh-017986306?utm_source=share_via&utm_content=profile&utm_medium=member_android)) | singhaaryann07@gmail.com
